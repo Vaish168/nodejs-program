@@ -41,6 +41,6 @@ function threeSum(nums: number[]): number[][] {
 
 }
 
-const resultArray: number [][] = threeSum([-1,0,1,2,-1,-4])
+const resultArray: number [][] = threeSum([-1,0,1,2,-1,-4,5])
 console.log("result" +resultArray)
 
